@@ -1,0 +1,1 @@
+basic kalkulator for mahasigma
